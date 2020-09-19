@@ -1,0 +1,4 @@
+# For pyinstaller stuff and general python junk
+build/
+__pycache__/
+*.spec
