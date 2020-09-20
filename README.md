@@ -3,11 +3,21 @@
 A project that im working on. I hope to finish.  
 The end goal is to make a application that you can use to play games that people make and publish on github(or any source control system)  
   
+# Contributing  
+So the file system will be a bit confusing, but in order to get started, have this file setup:  
+```
+ProjectDir
+-ConsoleOS
+-Games
+```
+ConsoleOS being where you are right now, and (Games)[https://github.com/InterestingBrainPoops/Games]  
+Games is kinda like the python standard library but for this project.  
 ## Time Line:
 This is going to go from now to the end of the project.  
  - [x] Get a sample game to test upcoming features. (/TestFiles/Snake)  
  - [x] Make a python script to run the .exe  
- - [ ] Create a basic file system and seperate the projects (Mega refactor 1)  
+ - [x] Create a basic file system and seperate the projects (Mega refactor 1)  
+ - [ ] Make the application window based, and have it so that when you press a button the game starts.
  - [ ] Time will tell  
   
 ## Installation instructions  
